@@ -1,1 +1,1 @@
-# Virtual-Pet-3
+# VirtualPet-3_whiteHatJr_project
